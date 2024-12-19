@@ -1,0 +1,13 @@
+*Notes
+
+check out Dap mode for congif later...
+
+might need to configure an alias for pip
+alias pip='python3 -m pip'
+
+run this to install pyython lsp globally
+pip install 'python-lsp-server[all]'
+
+
+checkout projectile mode
+also check how to make treemacs autochange directory...

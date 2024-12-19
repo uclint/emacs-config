@@ -1,0 +1,28 @@
+# Ignore backup files
+*~
+
+# Ignore auto-save files
+auto-save-list/
+
+# Ignore cache and temporary directories
+.cache/
+.local/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Emacs persistent data
+.lsp-session-v1
+org-persist/
+
+# Ignore any other temporary or lock files
+*#
+#*#
+.#*
+
+# more files to ignore
+elpa/
+*.elc
+archives/
+eshell/
+config-notes.txt

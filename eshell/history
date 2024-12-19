@@ -1,0 +1,4 @@
+ls
+./hello
+rm #hello.c#
+ls
